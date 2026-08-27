@@ -1,0 +1,9 @@
+{
+  "story": "A small robot finds a garden beneath the city.",
+  "shots": [
+    {"shot_id": "shot-1", "index": 0, "description": "Establish the setting and protagonist"},
+    {"shot_id": "shot-2", "index": 1, "description": "Introduce the central action or obstacle"},
+    {"shot_id": "shot-3", "index": 2, "description": "Show the decisive change"},
+    {"shot_id": "shot-4", "index": 3, "description": "Resolve on a clear final image"}
+  ]
+}

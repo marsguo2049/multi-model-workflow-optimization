@@ -1,0 +1,11 @@
+providers:
+  - id: mock-image-v1
+    capability: image_generation
+    provider: mock
+    model: deterministic-mock-v1
+    parameters: {}
+    resource_profile:
+      device: null
+      vram_gb: null
+    evaluation:
+      historical_samples: 0

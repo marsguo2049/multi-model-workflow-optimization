@@ -1,0 +1,6 @@
+mode: mock
+storyboard:
+  shot_count: 4
+video:
+  clip_count: 3
+output_directory: outputs/demo
